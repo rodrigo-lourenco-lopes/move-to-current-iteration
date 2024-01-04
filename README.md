@@ -40,9 +40,6 @@ Personal access token or an OAuth token. the `project` scope is required.
 #### iteration-field
 The name of your iteration field.
 
-#### iteration
-Should be `last` or `current`.
-
 #### new-iteration
 Should be `current` or `next`.
 
