@@ -22,7 +22,6 @@ jobs:
         number: 1
         token: ${{ secrets.PROJECT_PAT }}
         iteration-field: Iteration
-        iteration: last
         new-iteration: current
         statuses: Todo,In Progress,In Review
 ```
